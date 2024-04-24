@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Helloo</h1>
+    <h1>kontakt</h1>
 </body>
 </html>
